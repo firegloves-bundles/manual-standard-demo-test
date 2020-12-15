@@ -1,13 +1,13 @@
 code: extracted-standard-demo-bundle
 description: EXTRACTED Standard Demo Bundle
 components:
-#  widgets:
-#    - widgets/nws_archive-descriptor.yaml
-#    - widgets/nws_latest-descriptor.yaml
-#    - widgets/foo-details-widget-descriptor.yaml
-#    - widgets/foo-form-widget-descriptor.yaml
-#    - widgets/foo-table-widget-descriptor.yaml
-#    - widgets/search_form-descriptor.yaml
+  widgets:
+    - widgets/nws_archive-descriptor.yaml
+    - widgets/nws_latest-descriptor.yaml
+    - widgets/foo-details-widget-descriptor.yaml
+    - widgets/foo-form-widget-descriptor.yaml
+    - widgets/foo-table-widget-descriptor.yaml
+    - widgets/search_form-descriptor.yaml
 #  pageModels:
 #    - pageModels/1-2-column-descriptor.yaml
 #    - pageModels/1-2x2-1-column-descriptor.yaml
