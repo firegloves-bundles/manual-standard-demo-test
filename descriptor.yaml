@@ -110,8 +110,8 @@ components:
 #    - assets/entandoatwork/entandoatwork-descriptor.yaml
 #    - assets/htmlcode/htmlcode-descriptor.yaml
   contents:
-    - contents/bnr3-descriptor.yaml
-#    - contents/bnr2-descriptor.yaml
+#    - contents/bnr3-descriptor.yaml
+    - contents/bnr2-descriptor.yaml
 #    - contents/tcl6-descriptor.yaml
 #    - contents/nws5-descriptor.yaml
 #    - contents/nws4-descriptor.yaml
