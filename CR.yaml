@@ -1,0 +1,20 @@
+apiVersion: entando.org/v1
+kind: EntandoDeBundle
+metadata:
+  name: manual-standard-demo-test
+  labels:
+    plugin: 'true'
+    widget: 'true'
+spec:
+  details:
+    name: manual-standard-demo-test
+    description: This is a manual bundle to test the Standard Demo Bundle
+    dist-tags:
+      latest: v0.0.1
+    versions:
+      - v0.0.1
+  tags:
+    - version: v0.0.1
+      shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
+      integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
+      tarball: 'https://github.com/firegloves-bundles/manual-standard-demo-test.git'
